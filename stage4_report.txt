@@ -1,0 +1,12 @@
+Comprehensive Report
+- Data exploration showed missing values, which were cleaned and standardized.
+- Basic statistics revealed key hubs (e.g., DELHI, MUMBAI) as dominant source/destination stations.
+- Transformation highlighted weekday vs weekend operations, with fewer weekend trains.
+- Advanced analysis confirmed higher train counts on weekdays, with correlations suggesting demand gaps on weekends.
+- Visualizations (bar charts in Stage 3, heatmap in Stage 4) provide clear evidence of these patterns.
+
+Recommendations for Stakeholders:
+1. Increase weekend train services to balance demand.
+2. Optimize scheduling for high-volume stations to reduce congestion.
+3. Use heatmap insights to strengthen connectivity between under-served routes.
+4. Continue monitoring weekly patterns for adaptive scheduling.
